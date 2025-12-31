@@ -9,7 +9,7 @@ const Hero = () => {
   };
 
   const handleDownloadResume = () => {
-    alert('Resume download would start here. Please add your resume PDF to the project.');
+    alert('Would Add Very Soon!!');
   };
 
   return (
