@@ -44,7 +44,7 @@ const Navigation: React.FC = () => {
 
   const handleDownloadResume = () => {
     alert(
-      'Resume download would start here. Please add your resume PDF to the project.'
+      'Would Add Very Soon!!'
     );
   };
 
